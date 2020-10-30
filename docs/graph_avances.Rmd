@@ -50,7 +50,7 @@ Réalisez un graphique en barres de la moyenne de la concentration en urée sang
 ```
 
 <!--- Consignes
-Réalisez des boites de dispersion de la glycémie (`gbr`) en fonction de la classe (`class`). Décrivez le en maximum 5 phrases.
+Réalisez des boites de dispersion de la glycémie (`bgr`) en fonction de la classe (`class`). Décrivez le en maximum 5 phrases.
 --->
 
 ```{r boxplot1}
